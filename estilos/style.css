@@ -10,20 +10,20 @@ body {
 
 main {
     background-color: white;
-    width: 1700px;
+    width: 1000px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
-
+header {
+    box-sizing: border-box;
+}
 header > h1 {
     text-align: center;
     font-size: larger;
     color: rgb(131, 65, 143);
-    text-shadow: 1px 1px 0px rgb(78, 77, 77);
-    border-radius: 10px;
-    border-color: rgb(223, 134, 226);
-    box-shadow: 1px;
+   
+  
 }
 header > h2 {
     text-align: center;
